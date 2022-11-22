@@ -3,3 +3,4 @@
 * Products
 * Descriptions
 * prices
+* Discount
