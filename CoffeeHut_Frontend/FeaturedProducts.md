@@ -1,1 +1,5 @@
-" FeaturedProducts" 
+" FeaturedProducts"
+
+* Products
+* Descriptions
+* prices
